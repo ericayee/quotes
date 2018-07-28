@@ -7,17 +7,19 @@ html, body {
   text-align: center;
   font-family: 'Raleway';
   color: white;
-  padding: 20px;
+  font-size:16px;
+  padding:2em;
 }
 
 #header {
-
+  font-size:125%;
 }
 
 #quoteDisplay {
-  width:75%;
+  width:85%;
   margin:20px auto;
-  font-size: 22px;
+  font-size:120%;
+  line-height:1.4;
 }
 
 
@@ -38,4 +40,6 @@ html, body {
   background-color:#d3d3d3;
   color: #000;
   opacity: .5;
+}
+
 }
