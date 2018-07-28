@@ -1,0 +1,41 @@
+html, body {
+  background-color: #6A627B;
+}
+
+#wrapper {
+  background-color: #6A627B;
+  text-align: center;
+  font-family: 'Raleway';
+  color: white;
+  padding: 20px;
+}
+
+#header {
+
+}
+
+#quoteDisplay {
+  width:75%;
+  margin:20px auto;
+  font-size: 22px;
+}
+
+
+#quoteButton{
+  background-color: transparent;
+	width:200px;
+	margin: 30px auto;
+  border:1px solid #fff;
+  color: white;
+	font-family: inherit;
+  font-size: 18px;
+	padding:.5em;
+	text-decoration: none;
+  border-radius: 5px;
+}
+
+#quoteButton:hover {
+  background-color:#d3d3d3;
+  color: #000;
+  opacity: .5;
+}
