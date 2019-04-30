@@ -60,7 +60,13 @@ var quotes = [
 	'"The girl slowly nodded and leaned into Sonja, listening to the gurgle of her organs, these marvelous things we ignore, forget, and take for granted."<br><br>\u2014Anthony Marra, A Constellation of Vital Phenomena',
 	'"But from fifteen to seventeen she was in training for a heroine; she read all such works as heroines must read to supply their memories with those quotations which are so serviceable and so soothing in the vicissitudes of their eventful lives."<br><br>\u2014Jane Austen, Northanger Abbey',
 	'"I\'m a journalist. A free-speech warrior. I serve in the Army of the First Amendment. I didn\'t take this job for the bad money and the regressive health care coverage. I\'m here for the truth, the sunshine, the casting open of closed doors!"<br><br>\u2014Rainbow Rowell, Attachments',
-	'"You fall asleep for short periods and then for longer periods and then forever."<br><br>\u2014Emily St. John Mandel, Station Eleven'
+	'"You fall asleep for short periods and then for longer periods and then forever."<br><br>\u2014Emily St. John Mandel, Station Eleven',
+	'"I\'m getting you In-N-Out whether you like it or not."<br><br>\u2014Jasmine Guillory, The Wedding Date',
+	'"The lead—like the title—should be a flashlight that shines down into the story. A lead is a promise. It promises that the piece of writing is going to be like this. If it is not going to be so, don’t use the lead."<br><br>\u2014John McPhee, Draft No. 4: On the Writing Process',
+	'"I can’t think of anything lonelier than spending the rest of my life with someone I can’t talk to, or worse, someone I can’t be silent with."<br><br>\u2014Mary Ann Shaffer and Annie Barrows, The Guernsey Literary and Potato Peel Pie Society',
+	'"How is a magician to exist without books? Let someone explain that to me. It is like asking a politician to achieve high office without the benefit of bribes or patronage."<br><br>\u2014Susanna Clarke, Jonathan Strange and Mr Norrell',
+	'"Faithfulness requires the courage to risk everything on Jesus, the willingness to keep growing, and the readiness to risk failure throughout our lives."<br><br>\u2014Brennan Manning, The Ragamuffin Gospel',
+	'"Tourists—you can always spot the tourists, they’re the ones who think CALIFORNIA = WARM and spend their San Francisco holidays freezing in shorts and T-shirts—scattered in every direction."<br><br>\u2014Cory Doctorow, Little Brother'
 ]
 
 function newQuote() {
