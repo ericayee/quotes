@@ -1,50 +1,50 @@
-html, body {
-  background-color: #6A627B;
-}
+@import url('https://fonts.googleapis.com/css?family=BenchNine&display=swap');
 
-#wrapper {
-  background-color: #6A627B;
+body {
+  font-family: 'BenchNine', sans-serif;
+  margin: auto;
+  padding: 20px;
   text-align: center;
-  font-family: 'Raleway';
+  width: 300px;
+  background-color: lightgray;
+}
+
+#quote-box {
+
+}
+
+#text {
+  font-size: 1.5em;
+}
+
+#author {
+  font-size: 1.2em;
+  font-style: italic;
+}
+
+button {
+	width: 125px;
+  height: 50px;
   color: white;
-  font-size:16px;
-  padding:2em;
-}
-
-#header {
-  font-size:125%;
-}
-
-#quoteDisplay {
-  width:85%;
-  margin:20px auto;
-  font-size:120%;
-  line-height:1.4;
-}
-
-
-#quoteButton{
-  background-color: transparent;
-	width:200px;
-	margin: 30px auto;
-  border:1px solid #fff;
-  color: white;
-	font-family: inherit;
-  font-size: 18px;
+  font-size: .9em;
 	padding:.5em;
 	text-decoration: none;
+  border-color: transparent;
   border-radius: 5px;
 }
 
-#quoteButton:hover {
+button:hover {
   background-color:#d3d3d3;
   color: #000;
   opacity: .5;
+  cursor: pointer;
 }
 
-/*MEDIA QUERIES*/
-@media screen and(max-width:980px){
-	#wrapper {
-		font-size:2em;
-	}
+#new-quote {
+  background-color: #6A627B
+}
+
+#tweet-button {
+  background-color: steelblue;
+  margin-top: 10px;
 }
